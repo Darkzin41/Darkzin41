@@ -29,9 +29,15 @@ Sou **Ariel Rabelo**, desenvolvedor web com interesse em criar interfaces, aplic
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,git,figma&theme=dark"
-    alt="HTML, CSS, JavaScript, TypeScript, React, Python, Git e Figma"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,git,figma,php,laravel,docker,postgres&theme=dark"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Python, Git, Figma, PHP, Laravel, Docker e PostgreSQL"
   />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Orca-0891B2?style=for-the-badge" alt="Orca" />
 </div>
 
 ## 🚀 Projetos em destaque
