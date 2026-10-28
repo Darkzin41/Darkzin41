@@ -44,15 +44,6 @@ Sou **Ariel Rabelo**, desenvolvedor web com interesse em criar interfaces, aplic
 
 <p align="right"><a href="https://github.com/Darkzin41?tab=repositories">Explorar todos os repositórios →</a></p>
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Darkzin41&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=C9D1D9&locale=pt-br"
-    alt="Estatísticas públicas do GitHub de Darkzin41"
-  />
-</div>
-
 ## 🤝 Vamos conversar
 
 Tem uma ideia, projeto ou oportunidade de colaboração? Encontre-me no [LinkedIn](https://www.linkedin.com/in/ariel-asafedev/) ou explore meus projetos aqui no [GitHub](https://github.com/Darkzin41).
